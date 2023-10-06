@@ -3,6 +3,8 @@
 
 Runners Race: Place Your Bets and Hold Your Breath!
 
+## ![Sample Image](https://github.com/emiliomorles/Runners_Race/blob/master/extra/game_sample_001.jpg)
+
 Get ready for an adrenaline-pumping race like no other with the "Runners Race" game. Your favorite colorful runners are set to dash towards the finish line, but there's a twist - you get to place your bets on the winner.
 
 Race Features:
@@ -32,8 +34,6 @@ Why "Runners Race"?
 "Runners Race" is more than just a game; it's an experience filled with anticipation, excitement, and the thrill of winning. It's perfect for anyone looking for a quick dose of fun and excitement. Whether you're playing alone or with friends, this game promises a fantastic time.
 
 Challenge your luck, make your best bet, and cheer for your chosen runner. Experience the electrifying world of turtle racing with "Runners Race." Will you be a victorious punter? Download the game now and find out!
-
-## ![Sample Image](https://github.com/emiliomorles/Runners_Race/blob/master/extra/game_sample_001.jpg)
 
 ## Developer: https://github.com/emiliomorles
 

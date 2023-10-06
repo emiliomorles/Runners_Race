@@ -33,7 +33,7 @@ Why "Runners Race"?
 
 Challenge your luck, make your best bet, and cheer for your chosen runner. Experience the electrifying world of turtle racing with "Runners Race." Will you be a victorious punter? Download the game now and find out!
 
-## ![Sample Image]([extra/game_sample_001.jpg)
+## ![Sample Image](https://github.com/emiliomorles/Runners_Race/blob/master/extra/game_sample_001.jpg)
 
 ## Developer: https://github.com/emiliomorles
 

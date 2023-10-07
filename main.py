@@ -3,6 +3,7 @@ import random
 
 is_race_on = False
 screen = Screen()
+screen.title("Runners Race by @Emilio_Morles")
 screen.setup(width=500, height=400)
 user_bet = screen.textinput(title="Make your bet", prompt="Which runner wil win the race? Enter a color: \n\n"
                                                           "(red, orange, yellow, green, blue or black)")
